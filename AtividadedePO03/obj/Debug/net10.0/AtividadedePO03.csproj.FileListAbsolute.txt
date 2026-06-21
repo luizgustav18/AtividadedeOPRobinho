@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\AtividadedePO03\bin\Debug\net10.0\AtividadedePO03.exe
+C:\Users\admin\source\repos\AtividadedePO03\bin\Debug\net10.0\AtividadedePO03.deps.json
+C:\Users\admin\source\repos\AtividadedePO03\bin\Debug\net10.0\AtividadedePO03.runtimeconfig.json
+C:\Users\admin\source\repos\AtividadedePO03\bin\Debug\net10.0\AtividadedePO03.dll
+C:\Users\admin\source\repos\AtividadedePO03\bin\Debug\net10.0\AtividadedePO03.pdb
+C:\Users\admin\source\repos\AtividadedePO03\obj\Debug\net10.0\AtividadedePO03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\AtividadedePO03\obj\Debug\net10.0\AtividadedePO03.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\AtividadedePO03\obj\Debug\net10.0\AtividadedePO03.AssemblyInfo.cs
+C:\Users\admin\source\repos\AtividadedePO03\obj\Debug\net10.0\AtividadedePO03.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AtividadedePO03\obj\Debug\net10.0\AtividadedePO03.dll
+C:\Users\admin\source\repos\AtividadedePO03\obj\Debug\net10.0\refint\AtividadedePO03.dll
+C:\Users\admin\source\repos\AtividadedePO03\obj\Debug\net10.0\AtividadedePO03.pdb
+C:\Users\admin\source\repos\AtividadedePO03\obj\Debug\net10.0\AtividadedePO03.genruntimeconfig.cache
+C:\Users\admin\source\repos\AtividadedePO03\obj\Debug\net10.0\ref\AtividadedePO03.dll

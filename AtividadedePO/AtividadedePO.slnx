@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="../Atividade04/AtividadedePO04.csproj" Id="2dd321d6-3332-4ca9-b744-3d85afb23f6a" />
+  <Project Path="../AtividadedePO02/AtividadedePO02.csproj" Id="5fa882fd-4eac-4b5a-8933-f94b23a5ef94" />
+  <Project Path="../AtividadedePO03/AtividadedePO03.csproj" Id="bf02f5d7-35ca-4084-9ed2-bbaeb030d4f3" />
+  <Project Path="../AtividadedePO06/AtividadedePO06.csproj" Id="8cfdf04e-f87c-44dd-b53d-47ca26cd5e7b" />
+  <Project Path="../AtividadedePO08/AtividadedePO08.csproj" Id="a018a5fa-5f96-47dd-8585-6d3a20dd1805" />
+  <Project Path="../AtividadePO05/AtividadePO05.csproj" Id="25f2f2b8-ca21-4164-b5b0-2cc8281de652" />
+  <Project Path="AtividadedePO.csproj" />
+</Solution>
