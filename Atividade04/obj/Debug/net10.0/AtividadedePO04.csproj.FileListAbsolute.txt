@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Atividade04\bin\Debug\net10.0\AtividadedePO04.exe
+C:\Users\admin\source\repos\Atividade04\bin\Debug\net10.0\AtividadedePO04.deps.json
+C:\Users\admin\source\repos\Atividade04\bin\Debug\net10.0\AtividadedePO04.runtimeconfig.json
+C:\Users\admin\source\repos\Atividade04\bin\Debug\net10.0\AtividadedePO04.dll
+C:\Users\admin\source\repos\Atividade04\bin\Debug\net10.0\AtividadedePO04.pdb
+C:\Users\admin\source\repos\Atividade04\obj\Debug\net10.0\AtividadedePO04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Atividade04\obj\Debug\net10.0\AtividadedePO04.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Atividade04\obj\Debug\net10.0\AtividadedePO04.AssemblyInfo.cs
+C:\Users\admin\source\repos\Atividade04\obj\Debug\net10.0\AtividadedePO04.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Atividade04\obj\Debug\net10.0\AtividadedePO04.dll
+C:\Users\admin\source\repos\Atividade04\obj\Debug\net10.0\refint\AtividadedePO04.dll
+C:\Users\admin\source\repos\Atividade04\obj\Debug\net10.0\AtividadedePO04.pdb
+C:\Users\admin\source\repos\Atividade04\obj\Debug\net10.0\AtividadedePO04.genruntimeconfig.cache
+C:\Users\admin\source\repos\Atividade04\obj\Debug\net10.0\ref\AtividadedePO04.dll
